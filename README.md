@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saluspopuli
 - 👀 I’m interested in ...
-  - Anything low-level and Embedded Systems
+  - Anything low-level
   
 - 🌱 I’m currently learning ...
   - Python and Assembly
