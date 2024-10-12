@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @saluspopuli
 - 👀 I’m interested in ...
-  - Anything low-level
+  - Anything low-level and game dev related!
   
 - 🌱 I’m currently learning ...
-  - Python and Assembly
+  - Python and Godot
     
 - 💞️ I’m looking to collaborate on ...
-  - Projects that involve Arduinos
+  - Game development
 
 - 📫 How to reach me ...
   - You can reach me on discord at @salius
